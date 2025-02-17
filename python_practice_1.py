@@ -1,0 +1,1 @@
+print("Mykhailo Bryk, Group 4, SE-2027")
